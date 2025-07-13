@@ -1,12 +1,7 @@
-# Microbial Network Resilience
+Microbial Network Resilience
+This repository contains the complete set of data, analysis scripts, and visualization results for the study:
 
-This repository contains all data, scripts, and visualization results for the study:
-
-**"Emergence of Collective Intelligence Through the Disruption of Microbial Behavior: Does Homeostatic Breakdown Catalyze Creative Problem Solving?"**
-
-## Overview
-
-This study investigates how gut microbial dysbiosis, especially under chronic stress, can lead to adaptive network reorganization rather than solely pathological collapse. Through microbial co-occurrence network analysis and computational perturbation modeling, we identify hub taxa, analyze modularity, and assess the emergence of novel communication routes in microbiome structure.
+“Emergence of Collective Intelligence Through the Disruption of Microbial Behavior: Does Homeostatic Breakdown Catalyze Creative Problem Solving?”
 
 ---
 
@@ -27,3 +22,7 @@ The repository is organized as follows:
 ├── Cytoscape_networks/ ← Cytoscape .cys files or network exports
 └── figures/ ← Network and diversity visualization outputs
 </code>
+
+
+All raw sequencing data used in this study were obtained from the NCBI Sequence Read Archive (SRA) under BioProject [PRJNA956987](https://www.ncbi.nlm.nih.gov/bioproject/956987). Sample accessions include SRR28210342 through SRR28210381. These samples represent fecal microbiota from a mouse model of depression, including control, vehicle-treated, and Lactobacillus OLL2809 intervention groups.
+
