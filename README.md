@@ -14,7 +14,7 @@ This study investigates how gut microbial dysbiosis, especially under chronic st
 
 The repository is organized as follows:
 
-stress_microbiome_networks/
+<code> stress_microbiome_networks/
 ├── README.md ← Project description and usage
 ├── scripts/ ← Python and QIIME2 analysis scripts
 │ ├── network_analysis.py
@@ -26,3 +26,4 @@ stress_microbiome_networks/
 └── results/
 ├── Cytoscape_networks/ ← Cytoscape .cys files or network exports
 └── figures/ ← Network and diversity visualization outputs
+</code>
